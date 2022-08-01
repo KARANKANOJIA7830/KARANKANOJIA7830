@@ -10,7 +10,7 @@
 <p align="center">When I'm not developing and coding, you can find me watching Netflix, Sports or listening to music. Playing cricket 🏏: was also on that list, but quarantine has removed that for now 😢. Memes are something that are appreciated very much 😂. </p>
 <br>
 
-<p align="center"><a href="https://www.linkedin.com/in/karan-kanojia-098409210/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/karan__kanojia/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="karankanojia1110@gmail.com"><img src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a><a href="https://leetcode.com/karan_kanojia/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> </a> 
+<p align="center"><a href="https://www.linkedin.com/in/karan-kanojia-098409210/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/karan__kanojia/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="karankanojia1110@gmail.com"><img src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> </a> 
 </p>
 
 <h2 align="center"> Tools and Technologies </h2>
