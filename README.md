@@ -1,5 +1,5 @@
 
-<h2 align="center">Hello there! My name is Karan Kanojia | ❤️ open-source</h2>
+<h2 align="center">Hello there! 👋 My name is Karan Kanojia | ❤️ open-source</h2>
 
 ![Visitor Count](https://profile-counter.glitch.me/{KARANKANOJIA7830}/count.svg)
 <br>
