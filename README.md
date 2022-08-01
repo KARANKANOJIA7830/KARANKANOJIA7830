@@ -1,55 +1,63 @@
-<h1 align="center"># WELCOME TO MY PROFILE 👋 </h1>
 
-   ![programmer](https://user-images.githubusercontent.com/86140822/139723548-6ad71238-a88a-4926-a9aa-92d8e080ab8a.gif) 
+<h2 align="center">Hello there! My name is Karan Kanojia | ❤️ open-source</h2>
 
-
-<h1 align="center">Hi , I'm Karan Kanojia 👋</h1>
-  
-<h3 align="center">A final year undergraduate pursuing B.Tech (CSE) from Dr. A. P. J. Abdul Kalam Technical University, Uttar Pradesh. A computer science student passionate about programming and design.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karankanojia7830&label=Profile%20views&color=0e75b6&style=flat" alt="karankanojia7830" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karankanojia7830" alt="karankanojia7830" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/karanka53556697" target="blank"><img src="https://img.shields.io/twitter/follow/karanka53556697?logo=twitter&style=for-the-badge" alt="karanka53556697" /></a> </p>
-
-- 🔭 I’m currently working on **Web development & App development**
-
-- 🌱 I’m currently learning **DSA, Python, Java, Dart, Kotlin, C 🎖️**
-
-- 👨‍💻 All of my projects are available at [https://github.com/KARANKANOJIA7830/KARAN_KANOJIA](https://github.com/KARANKANOJIA7830/KARAN_KANOJIA)
-
-- 📫 How to reach me **karankanojia1110@gmail.com**
-
-- 📄 Know about my experiences [file:///C:/Users/Admin/Downloads/Karan's%20Resume%20(1)%20(1).pdf](file:///C:/Users/Admin/Downloads/Karan's%20Resume%20(1)%20(1).pdf)
-
-- ⚡ Fun fact **-->I utilize my free time in learning and exploring new technologies 🤩**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/karanka53556697" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karanka53556697" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/karan kanojia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan kanojia" height="30" width="40" /></a>
-<a href="https://fb.com/karan kanojia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="karan kanojia" height="30" width="40" /></a>
-<a href="https://instagram.com/karan__kanojia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karan__kanojia" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/karan_kanojia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="karan_kanojia" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@karankanojia1110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@karankanojia1110" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/karan_kanojia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karan_kanojia" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@karankanojia1110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@karankanojia1110" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/karankanojia1110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="karankanojia1110" height="30" width="40" /></a>
-</p> 
-<a href="file:///C:/Users/ngtaeoin/Documents/KARAN%20KANOJIA/KARAN%20web%20site/index.html" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="karankanojia1110" height="30" width="40" /></a>
-</p> 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karankanojia7830&show_icons=true&locale=en&layout=compact" alt="karankanojia7830" /></p>
+![Visitor Count](https://profile-counter.glitch.me/{KARANKANOJIA7830}/count.svg)
 <br>
-  <br>
-  <br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=karankanojia7830&show_icons=true&locale=en" alt="karankanojia7830" /></p>
 
-  <br>
-  <p><img align="right" src="https://i.redd.it/c18noamoqwj71.gif" width="220" height="200" </p>
+<p align="center">I'm currently a Final year student pursuing Bachelor of Technology in Computer Science from NIET (Gr. Noida). I'm Crazy Coder & Passionate Learner. I have keen interest in coding.
+</p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=karankanojia7830&" alt="karankanojia7830" /></p>
+<p align="center">When I'm not developing and coding, you can find me watching Netflix, Sports or listening to music. Playing cricket 🏏: was also on that list, but quarantine has removed that for now 😢. Memes are something that are appreciated very much 😂. </p>
+<br>
+
+<p align="center"><a href="https://www.linkedin.com/in/karan-kanojia-098409210/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/karan__kanojia/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="karankanojia1110@gmail.com"><img src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> </a> 
+</p>
+
+<h2 align="center"> Tools and Technologies </h2>
+<br>
+<p align="center">
+<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="Django" src="https://img.shields.io/badge/Django-%200FF00.svg?style=for-the-badge&logo=Django&logoColor=white"/>
+<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="Material UI" src="https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white"/>
+<img alt="Tailwind css" src="https://img.shields.io/badge/tailwind-%231572B6.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img alt="MySql" src="https://img.shields.io/badge/sqlite-%230081CB.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img alt="postgresql" src="https://img.shields.io/badge/postgresql-%231572B6.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/mysql-%2314354C.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/KARANKANOJIA7830/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=KARANKANOJIA7830&theme=react" alt="KARANKANOJIA7830" />
+    </a>
+    <a href="https://github.com/KARANKANOJIA7830/github-readme-stats" title="Go to Source">
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=KARANKANOJIA7830&show_icons=true&theme=react" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/KARANKANOJIA7830/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARANKANOJIA7830&theme=react" />
+    </a>
+  </div>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=KARANKANOJIA7830&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+
+<hr>
+
+
+<img align="right" alt="GIF" src="https://github.com/KARANKANOJIA7830/KARANKANOJIA7830/blob/main/icons/header_.png" />
+<br>
