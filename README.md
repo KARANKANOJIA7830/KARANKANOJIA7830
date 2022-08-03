@@ -7,7 +7,7 @@
 <p align="center">I'm currently a Final year student pursuing Bachelor of Technology in Computer Science from NIET (Gr. Noida). I'm Crazy Coder & Passionate Learner. I have keen interest in coding.
 </p>
 
-<p align="center">When I'm not developing and coding, you can find me watching Netflix, Sports or listening to music. Playing cricket 🏏: was also on that list, but quarantine has removed that for now 😢. Memes are something that are appreciated very much 😂. </p>
+<p align="center">I am passionate about Computer Science. I am a hard working student and a rational thinker who loves to logically deconstruct a problem to find innovative solutions. With a multi disciplinary approach in life, I always gives emphasis on being a team player and recognises how reliability can lead to success.😂. </p>
 <br>
 
 <p align="center"><a href="https://www.linkedin.com/in/karan-kanojia-098409210/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/karan__kanojia/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="karankanojia1110@gmail.com"><img src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> </a> 
