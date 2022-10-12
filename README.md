@@ -1,5 +1,5 @@
 
-<h2 align="center">Hello there! <img height =28 width=30 align=top src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif"/> My name is Karan Kanojia | <img src="https://user-images.githubusercontent.com/86140822/195323298-4faee3f2-5701-4691-94e5-b7d6ac05654f.png" width="30" height="30" aligh="bottom">
+<h2 align="center">Hello there! <img height =28 width=30 align=top src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif"/> My name is Karan Kanojia | ♥
 open-source</h2>
 
 ![Visitor Count](https://profile-counter.glitch.me/{KARANKANOJIA7830}/count.svg)
